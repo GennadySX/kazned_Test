@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a0a7e073-9941-48cd-8100-615abfa576af" name="Zilant" url="http://5.23.50.104">
+        <fileTransfer host="5.23.50.104" port="22" rootFolder="/home/c/cm69913/zilant/public_html/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="66aa1110-f949-45aa-a27f-58fbfe88345c" name="Zilant.Market" url="http://p421907.ftp.ihc.ru">
+        <fileTransfer host="p421907.ftp.ihc.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
